@@ -6,7 +6,7 @@ tags:
   - provider/spacelift
 ---
 
-# Component: `spacelift`
+# Component: `spacelift-spaces`
 
 This component is responsible for creating and managing the [spaces](https://docs.spacelift.io/concepts/spaces/) in the
 Spacelift organization.
