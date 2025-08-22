@@ -10,7 +10,6 @@ tags:
 
 This component is responsible for creating and managing the [spaces](https://docs.spacelift.io/concepts/spaces/) in the
 Spacelift organization.
-
 ## Usage
 
 **Stack Level**: Global
@@ -73,7 +72,10 @@ components:
 ```
 
 <!-- prettier-ignore-start -->
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- prettier-ignore-end -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -128,7 +130,17 @@ No resources.
 |------|-------------|
 | <a name="output_policies"></a> [policies](#output\_policies) | The policies created by this component |
 | <a name="output_spaces"></a> [spaces](#output\_spaces) | The spaces created by this component |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-<!-- prettier-ignore-end -->
+<!-- markdownlint-restore -->
+
+
+
+## References
+
+
+- [Spacelift Spaces](https://docs.spacelift.io/concepts/spaces/) - 
+
+
+
 
 [<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-spacelift-spaces&utm_content=)
+
